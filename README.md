@@ -6,6 +6,8 @@ The aim of this project is to create a word search program that will supply you 
 
 This project will contain a GUI to aid less technologically adept users in using this program.
 
+* THIS PROJECT WILL LEAD HUMANITY TO THE FUTURE *
+
 Todo:
 [] Implement word dictionary
 [] Implement an index
