@@ -9,9 +9,9 @@ This project will contain a GUI to aid less technologically adept users in using
 * THIS PROJECT WILL LEAD HUMANITY TO THE FUTURE *
 
 Todo:
-[] Implement word dictionary
-[] Implement an index
-[] Implement a way to search the index
-[] Allow the user to search by category
-[] Implement loops
-[] Implement a gui
+[ ] Implement word dictionary
+[ ] Implement an index
+[ ] Implement a way to search the index
+[ ] Allow the user to search by category
+[ ] Implement loops
+[ ] Implement a gui
